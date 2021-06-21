@@ -1,0 +1,3186 @@
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37338
+Date: Sat Mar 14 11:27:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37340
+Date: Sat Mar 14 11:27:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:37342
+Date: Sat Mar 14 11:27:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:37344
+Date: Sat Mar 14 11:27:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:37346
+Date: Sat Mar 14 11:27:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:37352
+Date: Sat Mar 14 11:27:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:37354
+Date: Sat Mar 14 11:27:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37452
+Date: Sat Mar 14 11:38:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37454
+Date: Sat Mar 14 11:38:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:37456
+Date: Sat Mar 14 11:38:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:37458
+Date: Sat Mar 14 11:38:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:37460
+Date: Sat Mar 14 11:38:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:37466
+Date: Sat Mar 14 11:38:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:37468
+Date: Sat Mar 14 11:38:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37532
+Date: Sat Mar 14 11:47:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37534
+Date: Sat Mar 14 11:47:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:37536
+Date: Sat Mar 14 11:47:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:37538
+Date: Sat Mar 14 11:47:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:37540
+Date: Sat Mar 14 11:47:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:37546
+Date: Sat Mar 14 11:47:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:37548
+Date: Sat Mar 14 11:47:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37596
+Date: Sat Mar 14 11:50:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37598
+Date: Sat Mar 14 11:50:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:37600
+Date: Sat Mar 14 11:50:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:37602
+Date: Sat Mar 14 11:50:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:37604
+Date: Sat Mar 14 11:50:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:37610
+Date: Sat Mar 14 11:50:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:37612
+Date: Sat Mar 14 11:50:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37662
+Date: Sat Mar 14 11:52:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:37664
+Date: Sat Mar 14 11:52:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:37666
+Date: Sat Mar 14 11:52:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:37668
+Date: Sat Mar 14 11:52:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:37670
+Date: Sat Mar 14 11:52:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:37676
+Date: Sat Mar 14 11:52:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:37678
+Date: Sat Mar 14 11:52:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:38706
+Date: Sat Mar 14 16:14:51 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:38710
+Date: Sat Mar 14 16:14:51 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:38712
+Date: Sat Mar 14 16:14:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:38714
+Date: Sat Mar 14 16:14:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:38716
+Date: Sat Mar 14 16:14:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:38722
+Date: Sat Mar 14 16:14:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:38724
+Date: Sat Mar 14 16:14:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:38870
+Date: Sat Mar 14 16:22:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:38872
+Date: Sat Mar 14 16:22:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:38874
+Date: Sat Mar 14 16:22:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:38876
+Date: Sat Mar 14 16:22:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:38878
+Date: Sat Mar 14 16:22:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:38884
+Date: Sat Mar 14 16:22:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:38886
+Date: Sat Mar 14 16:22:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39088
+Date: Sat Mar 14 16:31:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39090
+Date: Sat Mar 14 16:31:48 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39092
+Date: Sat Mar 14 16:31:48 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39094
+Date: Sat Mar 14 16:31:49 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39096
+Date: Sat Mar 14 16:31:49 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39098
+Date: Sat Mar 14 16:31:50 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39100
+Date: Sat Mar 14 16:31:50 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39102
+Date: Sat Mar 14 16:31:50 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39104
+Date: Sat Mar 14 16:31:50 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39106
+Date: Sat Mar 14 16:31:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39108
+Date: Sat Mar 14 16:31:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39110
+Date: Sat Mar 14 16:31:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39112
+Date: Sat Mar 14 16:31:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39114
+Date: Sat Mar 14 16:31:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39116
+Date: Sat Mar 14 16:31:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39118
+Date: Sat Mar 14 16:31:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39120
+Date: Sat Mar 14 16:31:52 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39122
+Date: Sat Mar 14 16:31:52 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:39148
+Date: Sat Mar 14 16:33:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:39150
+Date: Sat Mar 14 16:33:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:39152
+Date: Sat Mar 14 16:33:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:39154
+Date: Sat Mar 14 16:33:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:39156
+Date: Sat Mar 14 16:33:48 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:39162
+Date: Sat Mar 14 16:33:48 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:39164
+Date: Sat Mar 14 16:33:48 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:39180
+Date: Sat Mar 14 16:34:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:39186
+Date: Sat Mar 14 16:34:07 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:39200
+Date: Sat Mar 14 16:35:13 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:39202
+Date: Sat Mar 14 16:35:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:39204
+Date: Sat Mar 14 16:35:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:39206
+Date: Sat Mar 14 16:35:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:39214
+Date: Sat Mar 14 16:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:39216
+Date: Sat Mar 14 16:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:39218
+Date: Sat Mar 14 16:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:39220
+Date: Sat Mar 14 16:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:39222
+Date: Sat Mar 14 16:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:39228
+Date: Sat Mar 14 16:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:39230
+Date: Sat Mar 14 16:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39242
+Date: Sat Mar 14 16:35:26 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39248
+Date: Sat Mar 14 16:35:27 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39250
+Date: Sat Mar 14 16:35:27 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39252
+Date: Sat Mar 14 16:35:27 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39288
+Date: Sat Mar 14 16:40:11 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:39310
+Date: Sat Mar 14 16:40:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:39312
+Date: Sat Mar 14 16:40:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:39314
+Date: Sat Mar 14 16:40:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:39316
+Date: Sat Mar 14 16:40:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:39318
+Date: Sat Mar 14 16:40:41 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:39324
+Date: Sat Mar 14 16:40:41 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:39326
+Date: Sat Mar 14 16:40:41 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39342
+Date: Sat Mar 14 16:41:18 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /192.168.0.22:40998
+Date: Sat Mar 14 16:42:52 CET 2020
+Server answer: 200 OK
+Sent resource size: 154269
+
+Petition received: GET /fic.png HTTP/1.1
+From: /192.168.0.22:41006
+Date: Sat Mar 14 16:43:10 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39402
+Date: Sat Mar 14 16:44:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 15294
+
+Petition received: GET /errors_log.txt HTTP/1.1
+From: /127.0.0.1:39414
+Date: Sat Mar 14 16:44:59 CET 2020
+Server answer: 200 OK
+Sent resource size: 34473
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39424
+Date: Sat Mar 14 16:45:10 CET 2020
+Server answer: 200 OK
+Sent resource size: 15604
+
+Petition received: GET /errors_log.txt HTTP/1.1
+From: /127.0.0.1:39432
+Date: Sat Mar 14 16:45:23 CET 2020
+Server answer: 200 OK
+Sent resource size: 35598
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39442
+Date: Sat Mar 14 16:45:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 15914
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39444
+Date: Sat Mar 14 16:45:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 16069
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39446
+Date: Sat Mar 14 16:45:48 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39448
+Date: Sat Mar 14 16:45:49 CET 2020
+Server answer: 200 OK
+Sent resource size: 16385
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39450
+Date: Sat Mar 14 16:45:49 CET 2020
+Server answer: 200 OK
+Sent resource size: 16540
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39452
+Date: Sat Mar 14 16:45:49 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39454
+Date: Sat Mar 14 16:45:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39456
+Date: Sat Mar 14 16:45:53 CET 2020
+Server answer: 200 OK
+Sent resource size: 17017
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39458
+Date: Sat Mar 14 16:45:53 CET 2020
+Server answer: 200 OK
+Sent resource size: 17172
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39460
+Date: Sat Mar 14 16:45:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39462
+Date: Sat Mar 14 16:45:54 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39464
+Date: Sat Mar 14 16:45:54 CET 2020
+Server answer: 200 OK
+Sent resource size: 17649
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39466
+Date: Sat Mar 14 16:45:55 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39468
+Date: Sat Mar 14 16:45:55 CET 2020
+Server answer: 200 OK
+Sent resource size: 17965
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39470
+Date: Sat Mar 14 16:45:55 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39472
+Date: Sat Mar 14 16:45:56 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39474
+Date: Sat Mar 14 16:45:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 18442
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39476
+Date: Sat Mar 14 16:45:56 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39478
+Date: Sat Mar 14 16:45:56 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39480
+Date: Sat Mar 14 16:45:57 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39482
+Date: Sat Mar 14 16:45:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 19080
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39484
+Date: Sat Mar 14 16:45:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 19235
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39486
+Date: Sat Mar 14 16:45:59 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39488
+Date: Sat Mar 14 16:45:59 CET 2020
+Server answer: 200 OK
+Sent resource size: 19551
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39490
+Date: Sat Mar 14 16:45:59 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39492
+Date: Sat Mar 14 16:46:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39494
+Date: Sat Mar 14 16:46:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 20028
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39496
+Date: Sat Mar 14 16:46:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39498
+Date: Sat Mar 14 16:46:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39500
+Date: Sat Mar 14 16:46:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39502
+Date: Sat Mar 14 16:46:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39504
+Date: Sat Mar 14 16:46:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39506
+Date: Sat Mar 14 16:46:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 20988
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39508
+Date: Sat Mar 14 16:46:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39512
+Date: Sat Mar 14 16:46:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39514
+Date: Sat Mar 14 16:46:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:39516
+Date: Sat Mar 14 16:46:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39524
+Date: Sat Mar 14 16:46:06 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39526
+Date: Sat Mar 14 16:46:07 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39528
+Date: Sat Mar 14 16:46:07 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:39530
+Date: Sat Mar 14 16:46:07 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39538
+Date: Sat Mar 14 16:46:12 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39540
+Date: Sat Mar 14 16:46:13 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39542
+Date: Sat Mar 14 16:46:13 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39548
+Date: Sat Mar 14 16:46:13 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39550
+Date: Sat Mar 14 16:46:13 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39552
+Date: Sat Mar 14 16:46:13 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39554
+Date: Sat Mar 14 16:46:13 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39556
+Date: Sat Mar 14 16:46:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39558
+Date: Sat Mar 14 16:46:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:39560
+Date: Sat Mar 14 16:46:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41712
+Date: Sun Mar 15 12:38:58 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41714
+Date: Sun Mar 15 12:39:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41716
+Date: Sun Mar 15 12:39:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41718
+Date: Sun Mar 15 12:39:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41720
+Date: Sun Mar 15 12:39:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41722
+Date: Sun Mar 15 12:39:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41724
+Date: Sun Mar 15 12:39:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41732
+Date: Sun Mar 15 12:39:08 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41734
+Date: Sun Mar 15 12:39:08 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41736
+Date: Sun Mar 15 12:39:09 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41738
+Date: Sun Mar 15 12:39:09 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41756
+Date: Sun Mar 15 12:40:25 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41758
+Date: Sun Mar 15 12:40:25 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41760
+Date: Sun Mar 15 12:40:25 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41766
+Date: Sun Mar 15 12:40:30 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41768
+Date: Sun Mar 15 12:40:30 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41770
+Date: Sun Mar 15 12:40:31 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41772
+Date: Sun Mar 15 12:40:31 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41774
+Date: Sun Mar 15 12:40:31 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41780
+Date: Sun Mar 15 12:40:31 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41782
+Date: Sun Mar 15 12:40:31 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41784
+Date: Sun Mar 15 12:40:32 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41786
+Date: Sun Mar 15 12:40:32 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41788
+Date: Sun Mar 15 12:40:32 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41832
+Date: Sun Mar 15 12:41:54 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41834
+Date: Sun Mar 15 12:41:55 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41840
+Date: Sun Mar 15 12:41:55 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41842
+Date: Sun Mar 15 12:41:55 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41844
+Date: Sun Mar 15 12:41:55 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:41846
+Date: Sun Mar 15 12:41:56 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:42374
+Date: Sun Mar 15 13:42:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 1111
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:42484
+Date: Sun Mar 15 13:49:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 507
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:42486
+Date: Sun Mar 15 13:49:21 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:42498
+Date: Sun Mar 15 13:49:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /directory_index.txt HTTP/1.1
+From: /127.0.0.1:42508
+Date: Sun Mar 15 13:49:31 CET 2020
+Server answer: 200 OK
+Sent resource size: 25
+
+Petition received: GET /directory_index.txt HTTP/1.1
+From: /127.0.0.1:42510
+Date: Sun Mar 15 13:49:32 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:42522
+Date: Sun Mar 15 13:49:36 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /errors_log.txt HTTP/1.1
+From: /127.0.0.1:42528
+Date: Sun Mar 15 13:49:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 56716
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:42542
+Date: Sun Mar 15 13:49:45 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:42548
+Date: Sun Mar 15 13:49:47 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:42554
+Date: Sun Mar 15 13:49:51 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:42564
+Date: Sun Mar 15 13:49:56 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:42576
+Date: Sun Mar 15 13:49:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 30192
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:42582
+Date: Sun Mar 15 13:50:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 154269
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:42650
+Date: Sun Mar 15 13:54:17 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:42694
+Date: Sun Mar 15 13:54:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 454
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:42698
+Date: Sun Mar 15 13:54:59 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:42924
+Date: Sun Mar 15 14:03:09 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:42936
+Date: Sun Mar 15 14:03:13 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:42948
+Date: Sun Mar 15 14:04:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:42962
+Date: Sun Mar 15 14:04:12 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:42978
+Date: Sun Mar 15 14:04:20 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:42990
+Date: Sun Mar 15 14:04:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:42992
+Date: Sun Mar 15 14:04:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:42994
+Date: Sun Mar 15 14:04:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:42996
+Date: Sun Mar 15 14:04:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:42998
+Date: Sun Mar 15 14:04:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:43004
+Date: Sun Mar 15 14:04:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:43006
+Date: Sun Mar 15 14:04:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43188
+Date: Sun Mar 15 15:28:04 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43198
+Date: Sun Mar 15 15:28:10 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43212
+Date: Sun Mar 15 15:28:16 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:43224
+Date: Sun Mar 15 15:28:24 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:43230
+Date: Sun Mar 15 15:28:28 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43238
+Date: Sun Mar 15 15:28:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43248
+Date: Sun Mar 15 15:28:36 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43250
+Date: Sun Mar 15 15:28:37 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43256
+Date: Sun Mar 15 15:28:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43258
+Date: Sun Mar 15 15:28:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43260
+Date: Sun Mar 15 15:28:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43262
+Date: Sun Mar 15 15:28:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43264
+Date: Sun Mar 15 15:28:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43266
+Date: Sun Mar 15 15:28:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43268
+Date: Sun Mar 15 15:28:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43270
+Date: Sun Mar 15 15:28:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43272
+Date: Sun Mar 15 15:28:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43278
+Date: Sun Mar 15 15:28:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43280
+Date: Sun Mar 15 15:28:41 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43282
+Date: Sun Mar 15 15:28:41 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43284
+Date: Sun Mar 15 15:28:41 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43286
+Date: Sun Mar 15 15:28:42 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43288
+Date: Sun Mar 15 15:28:42 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43290
+Date: Sun Mar 15 15:28:42 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43292
+Date: Sun Mar 15 15:28:42 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43294
+Date: Sun Mar 15 15:28:43 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:43302
+Date: Sun Mar 15 15:28:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:43304
+Date: Sun Mar 15 15:28:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:43306
+Date: Sun Mar 15 15:28:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:43308
+Date: Sun Mar 15 15:28:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:43310
+Date: Sun Mar 15 15:28:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:43316
+Date: Sun Mar 15 15:28:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:43318
+Date: Sun Mar 15 15:28:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43334
+Date: Sun Mar 15 15:29:27 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43336
+Date: Sun Mar 15 15:29:28 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43338
+Date: Sun Mar 15 15:29:29 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43340
+Date: Sun Mar 15 15:29:29 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43342
+Date: Sun Mar 15 15:29:29 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43344
+Date: Sun Mar 15 15:29:29 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43346
+Date: Sun Mar 15 15:29:30 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43348
+Date: Sun Mar 15 15:29:30 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43350
+Date: Sun Mar 15 15:29:30 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43372
+Date: Sun Mar 15 15:31:05 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43374
+Date: Sun Mar 15 15:31:05 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43376
+Date: Sun Mar 15 15:31:06 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43378
+Date: Sun Mar 15 15:31:06 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43380
+Date: Sun Mar 15 15:31:06 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43382
+Date: Sun Mar 15 15:31:06 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43384
+Date: Sun Mar 15 15:31:06 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43386
+Date: Sun Mar 15 15:31:07 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43388
+Date: Sun Mar 15 15:31:07 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43390
+Date: Sun Mar 15 15:31:08 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43392
+Date: Sun Mar 15 15:31:08 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /errors_log.txt HTTP/1.1
+From: /127.0.0.1:43402
+Date: Sun Mar 15 15:31:15 CET 2020
+Server answer: 200 OK
+Sent resource size: 98331
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43428
+Date: Sun Mar 15 15:31:22 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43430
+Date: Sun Mar 15 15:31:22 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43432
+Date: Sun Mar 15 15:31:22 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43434
+Date: Sun Mar 15 15:31:22 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43436
+Date: Sun Mar 15 15:31:23 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43438
+Date: Sun Mar 15 15:31:23 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43440
+Date: Sun Mar 15 15:31:23 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43442
+Date: Sun Mar 15 15:31:23 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43444
+Date: Sun Mar 15 15:31:24 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43464
+Date: Sun Mar 15 15:31:28 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /127.0.0.1:43466
+Date: Sun Mar 15 15:31:28 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43472
+Date: Sun Mar 15 15:31:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43474
+Date: Sun Mar 15 15:31:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43480
+Date: Sun Mar 15 15:31:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43482
+Date: Sun Mar 15 15:31:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43484
+Date: Sun Mar 15 15:31:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43486
+Date: Sun Mar 15 15:31:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43488
+Date: Sun Mar 15 15:31:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43490
+Date: Sun Mar 15 15:31:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43492
+Date: Sun Mar 15 15:31:34 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:43542
+Date: Sun Mar 15 15:34:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:43544
+Date: Sun Mar 15 15:34:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:43546
+Date: Sun Mar 15 15:34:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:43548
+Date: Sun Mar 15 15:34:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:43550
+Date: Sun Mar 15 15:34:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:43556
+Date: Sun Mar 15 15:34:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:43558
+Date: Sun Mar 15 15:34:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43574
+Date: Sun Mar 15 15:34:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43576
+Date: Sun Mar 15 15:34:59 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43578
+Date: Sun Mar 15 15:34:59 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43580
+Date: Sun Mar 15 15:34:59 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43582
+Date: Sun Mar 15 15:35:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43584
+Date: Sun Mar 15 15:35:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43586
+Date: Sun Mar 15 15:35:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43588
+Date: Sun Mar 15 15:35:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43590
+Date: Sun Mar 15 15:35:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43592
+Date: Sun Mar 15 15:35:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43594
+Date: Sun Mar 15 15:35:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43596
+Date: Sun Mar 15 15:35:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43598
+Date: Sun Mar 15 15:35:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43600
+Date: Sun Mar 15 15:35:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43602
+Date: Sun Mar 15 15:35:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43604
+Date: Sun Mar 15 15:35:02 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43606
+Date: Sun Mar 15 15:35:02 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43608
+Date: Sun Mar 15 15:35:02 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43610
+Date: Sun Mar 15 15:35:02 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43636
+Date: Sun Mar 15 15:35:16 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43638
+Date: Sun Mar 15 15:35:17 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43640
+Date: Sun Mar 15 15:35:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43642
+Date: Sun Mar 15 15:35:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43644
+Date: Sun Mar 15 15:35:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43646
+Date: Sun Mar 15 15:35:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43648
+Date: Sun Mar 15 15:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43650
+Date: Sun Mar 15 15:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43652
+Date: Sun Mar 15 15:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43654
+Date: Sun Mar 15 15:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43656
+Date: Sun Mar 15 15:35:19 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43774
+Date: Sun Mar 15 15:38:34 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43784
+Date: Sun Mar 15 15:38:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:43790
+Date: Sun Mar 15 15:39:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43798
+Date: Sun Mar 15 15:39:07 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43800
+Date: Sun Mar 15 15:39:08 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43806
+Date: Sun Mar 15 15:39:09 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43808
+Date: Sun Mar 15 15:39:10 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43826
+Date: Sun Mar 15 15:39:21 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43834
+Date: Sun Mar 15 15:39:28 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43836
+Date: Sun Mar 15 15:39:29 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43838
+Date: Sun Mar 15 15:39:30 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43840
+Date: Sun Mar 15 15:39:30 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43842
+Date: Sun Mar 15 15:39:30 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43844
+Date: Sun Mar 15 15:39:30 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43864
+Date: Sun Mar 15 15:39:58 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43866
+Date: Sun Mar 15 15:39:58 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43868
+Date: Sun Mar 15 15:39:59 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:43880
+Date: Sun Mar 15 15:40:05 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.1
+From: /127.0.0.1:43882
+Date: Sun Mar 15 15:40:08 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:43898
+Date: Sun Mar 15 15:40:21 CET 2020
+Server answer: 200 OK
+Sent resource size: 52174
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:43900
+Date: Sun Mar 15 15:40:23 CET 2020
+Server answer: 200 OK
+Sent resource size: 52329
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:43902
+Date: Sun Mar 15 15:40:23 CET 2020
+Server answer: 200 OK
+Sent resource size: 52484
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:43904
+Date: Sun Mar 15 15:40:23 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:43910
+Date: Sun Mar 15 15:40:25 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:43912
+Date: Sun Mar 15 15:40:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 52961
+
+Petition received: GET /access_log.txt HTTP/1.1
+From: /127.0.0.1:43914
+Date: Sun Mar 15 15:40:26 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:43928
+Date: Sun Mar 15 15:40:34 CET 2020
+Server answer: 200 OK
+Sent resource size: 154269
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:43934
+Date: Sun Mar 15 15:40:35 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:43936
+Date: Sun Mar 15 15:40:36 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:43964
+Date: Sun Mar 15 15:41:24 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:43966
+Date: Sun Mar 15 15:41:24 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:43998
+Date: Sun Mar 15 15:42:36 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:44000
+Date: Sun Mar 15 15:42:36 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:44040
+Date: Sun Mar 15 15:43:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:44042
+Date: Sun Mar 15 15:43:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:44044
+Date: Sun Mar 15 15:43:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:44046
+Date: Sun Mar 15 15:43:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:44048
+Date: Sun Mar 15 15:43:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:44054
+Date: Sun Mar 15 15:43:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:44056
+Date: Sun Mar 15 15:43:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:44068
+Date: Sun Mar 15 15:43:19 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:44074
+Date: Sun Mar 15 15:43:20 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:44292
+Date: Sun Mar 15 15:50:04 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:44294
+Date: Sun Mar 15 15:50:04 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:44296
+Date: Sun Mar 15 15:50:04 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:44298
+Date: Sun Mar 15 15:50:05 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:44300
+Date: Sun Mar 15 15:50:05 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:44306
+Date: Sun Mar 15 15:50:05 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:44308
+Date: Sun Mar 15 15:50:05 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:44332
+Date: Sun Mar 15 15:50:36 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:44362
+Date: Sun Mar 15 15:51:06 CET 2020
+Server answer: 200 OK
+Sent resource size: 154269
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:49912
+Date: Tue Mar 17 09:26:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:49914
+Date: Tue Mar 17 09:26:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:49916
+Date: Tue Mar 17 09:26:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:49918
+Date: Tue Mar 17 09:26:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:49920
+Date: Tue Mar 17 09:26:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:49926
+Date: Tue Mar 17 09:26:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:49928
+Date: Tue Mar 17 09:26:01 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:50074
+Date: Tue Mar 17 09:26:33 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:50078
+Date: Tue Mar 17 09:26:35 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50086
+Date: Tue Mar 17 09:26:38 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50092
+Date: Tue Mar 17 09:26:39 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50094
+Date: Tue Mar 17 09:26:39 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50096
+Date: Tue Mar 17 09:26:40 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50356
+Date: Tue Mar 17 10:28:09 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50726
+Date: Tue Mar 17 10:44:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:50868
+Date: Tue Mar 17 10:50:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50884
+Date: Tue Mar 17 10:50:45 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:50890
+Date: Tue Mar 17 10:50:45 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50928
+Date: Tue Mar 17 10:52:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50934
+Date: Tue Mar 17 10:52:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50936
+Date: Tue Mar 17 10:52:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50938
+Date: Tue Mar 17 10:52:15 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50940
+Date: Tue Mar 17 10:52:16 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50942
+Date: Tue Mar 17 10:52:16 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50944
+Date: Tue Mar 17 10:52:16 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50950
+Date: Tue Mar 17 10:53:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50958
+Date: Tue Mar 17 10:54:45 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50966
+Date: Tue Mar 17 10:54:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50968
+Date: Tue Mar 17 10:54:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50974
+Date: Tue Mar 17 10:54:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50976
+Date: Tue Mar 17 10:54:51 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50978
+Date: Tue Mar 17 10:54:51 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50980
+Date: Tue Mar 17 10:54:51 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50982
+Date: Tue Mar 17 10:54:52 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50984
+Date: Tue Mar 17 10:54:52 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50986
+Date: Tue Mar 17 10:54:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50988
+Date: Tue Mar 17 10:54:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50990
+Date: Tue Mar 17 10:54:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50992
+Date: Tue Mar 17 10:54:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50994
+Date: Tue Mar 17 10:54:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50996
+Date: Tue Mar 17 10:54:54 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:50998
+Date: Tue Mar 17 10:54:54 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:51000
+Date: Tue Mar 17 10:54:54 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:51002
+Date: Tue Mar 17 10:54:55 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:51168
+Date: Tue Mar 17 11:01:00 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.13:56538
+Date: Tue Mar 17 11:03:44 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.13:56559
+Date: Tue Mar 17 11:04:17 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.13:56575
+Date: Tue Mar 17 11:04:29 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.13:56579
+Date: Tue Mar 17 11:04:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /192.168.0.13:56591
+Date: Tue Mar 17 11:04:38 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /192.168.0.13:56592
+Date: Tue Mar 17 11:04:42 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.13:56599
+Date: Tue Mar 17 11:04:42 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /192.168.0.13:56602
+Date: Tue Mar 17 11:04:46 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.13:56603
+Date: Tue Mar 17 11:04:46 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /192.168.0.13:56604
+Date: Tue Mar 17 11:04:46 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /192.168.0.13:56605
+Date: Tue Mar 17 11:04:48 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.13:56607
+Date: Tue Mar 17 11:04:49 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:51236
+Date: Tue Mar 17 11:06:14 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /192.168.0.20:44654
+Date: Tue Mar 17 11:19:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 172966
+
+Petition received: GET /LICENSE.txt HTTP/1.1
+From: /192.168.0.20:44656
+Date: Tue Mar 17 11:19:16 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /192.168.0.20:44658
+Date: Tue Mar 17 11:19:20 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:51346
+Date: Tue Mar 17 11:20:31 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:51348
+Date: Tue Mar 17 11:20:32 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:52218
+Date: Tue Mar 17 12:26:23 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:52230
+Date: Tue Mar 17 12:26:28 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:52792
+Date: Tue Mar 17 12:47:54 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:53098
+Date: Tue Mar 17 13:13:46 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:53104
+Date: Tue Mar 17 13:13:52 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:54172
+Date: Tue Mar 17 14:02:13 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:54182
+Date: Tue Mar 17 14:02:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:54184
+Date: Tue Mar 17 14:02:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:54186
+Date: Tue Mar 17 14:02:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:54188
+Date: Tue Mar 17 14:02:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:54190
+Date: Tue Mar 17 14:02:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:54196
+Date: Tue Mar 17 14:02:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:54198
+Date: Tue Mar 17 14:02:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:54236
+Date: Tue Mar 17 14:03:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:54238
+Date: Tue Mar 17 14:03:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:54240
+Date: Tue Mar 17 14:03:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:54242
+Date: Tue Mar 17 14:03:47 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:54244
+Date: Tue Mar 17 14:03:48 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:54250
+Date: Tue Mar 17 14:03:48 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:54252
+Date: Tue Mar 17 14:03:48 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:54290
+Date: Tue Mar 17 14:05:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:54292
+Date: Tue Mar 17 14:05:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:54294
+Date: Tue Mar 17 14:05:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:54296
+Date: Tue Mar 17 14:05:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:54298
+Date: Tue Mar 17 14:05:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:54304
+Date: Tue Mar 17 14:05:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:54306
+Date: Tue Mar 17 14:05:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:56128
+Date: Tue Mar 17 17:11:31 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:56132
+Date: Tue Mar 17 17:11:33 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:36060
+Date: Thu Mar 19 10:02:24 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:36096
+Date: Thu Mar 19 10:03:50 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:36114
+Date: Thu Mar 19 10:05:03 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:36116
+Date: Thu Mar 19 10:05:03 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:36118
+Date: Thu Mar 19 10:05:03 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:36120
+Date: Thu Mar 19 10:05:03 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:36122
+Date: Thu Mar 19 10:05:03 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:36128
+Date: Thu Mar 19 10:05:03 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:36130
+Date: Thu Mar 19 10:05:03 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:36144
+Date: Thu Mar 19 10:06:09 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:36156
+Date: Thu Mar 19 10:06:15 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:36158
+Date: Thu Mar 19 10:06:16 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /errors_log.txt HTTP/1.1
+From: /127.0.0.1:36194
+Date: Thu Mar 19 10:07:49 CET 2020
+Server answer: 200 OK
+Sent resource size: 204499
+
+Petition received: GET / HTTP/1.1
+From: /127.0.0.1:42288
+Date: Fri Mar 20 09:59:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 0
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:42290
+Date: Fri Mar 20 09:59:11 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:42580
+Date: Fri Mar 20 10:03:24 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:42588
+Date: Fri Mar 20 10:03:31 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:42604
+Date: Fri Mar 20 10:03:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:42606
+Date: Fri Mar 20 10:03:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:42608
+Date: Fri Mar 20 10:03:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:42610
+Date: Fri Mar 20 10:03:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:42612
+Date: Fri Mar 20 10:03:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:42618
+Date: Fri Mar 20 10:03:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:42620
+Date: Fri Mar 20 10:03:58 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:43548
+Date: Fri Mar 20 12:30:40 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:43554
+Date: Fri Mar 20 12:30:43 CET 2020
+Server answer: 200 OK
+Sent resource size: 503
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:43736
+Date: Fri Mar 20 12:34:09 CET 2020
+Server answer: 200 OK
+Sent resource size: 503
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:43834
+Date: Fri Mar 20 12:37:16 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:43894
+Date: Fri Mar 20 12:40:53 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:43938
+Date: Fri Mar 20 12:43:01 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:44106
+Date: Fri Mar 20 13:15:43 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /template.html HTTP/1.1
+From: /127.0.0.1:44304
+Date: Fri Mar 20 13:26:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 491
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:44306
+Date: Fri Mar 20 13:26:22 CET 2020
+Server answer: 200 OK
+Sent resource size: 503
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:44480
+Date: Fri Mar 20 14:56:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:44482
+Date: Fri Mar 20 14:56:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:44484
+Date: Fri Mar 20 14:56:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:44486
+Date: Fri Mar 20 14:56:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:44488
+Date: Fri Mar 20 14:56:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:44494
+Date: Fri Mar 20 14:56:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:44496
+Date: Fri Mar 20 14:56:25 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:51594
+Date: Thu Mar 26 10:18:36 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /saludo.html HTTP/1.1
+From: /127.0.0.1:51596
+Date: Thu Mar 26 10:18:39 CET 2020
+Server answer: 200 OK
+Sent resource size: 746
+
+Petition received: GET /fic.png HTTP/1.1
+From: /127.0.0.1:51610
+Date: Thu Mar 26 10:18:45 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:51622
+Date: Thu Mar 26 10:18:56 CET 2020
+Server answer: 200 OK
+Sent resource size: 503
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:51640
+Date: Thu Mar 26 10:19:04 CET 2020
+Server answer: 200 OK
+Sent resource size: 154269
+
+Petition received: GET /server_properties.txt HTTP/1.1
+From: /127.0.0.1:51680
+Date: Thu Mar 26 10:19:38 CET 2020
+Server answer: 200 OK
+Sent resource size: 136
+
+Petition received: GET /favicon.ico HTTP/1.1
+From: /127.0.0.1:42146
+Date: Fri Mar 27 09:12:57 CET 2020
+Server answer: 200 OK
+Sent resource size: 432254
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:42154
+Date: Fri Mar 27 09:13:00 CET 2020
+Server answer: 200 OK
+Sent resource size: 154269
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:42174
+Date: Fri Mar 27 09:13:11 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /Presentacion.pdf HTTP/1.1
+From: /127.0.0.1:42180
+Date: Fri Mar 27 09:13:12 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:42182
+Date: Fri Mar 27 09:13:17 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /udc.gif HTTP/1.1
+From: /127.0.0.1:42194
+Date: Fri Mar 27 09:13:20 CET 2020
+Server answer: 304 Not Modified
+Sent resource size: 0
+
+Petition received: GET /server_properties.txt HTTP/1.1
+From: /127.0.0.1:42206
+Date: Fri Mar 27 09:13:24 CET 2020
+Server answer: 200 OK
+Sent resource size: 136
+
+Petition received: GET /sing_up.html HTTP/1.1
+From: /127.0.0.1:42222
+Date: Fri Mar 27 09:13:35 CET 2020
+Server answer: 200 OK
+Sent resource size: 503
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:42268
+Date: Fri Mar 27 09:15:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /index.html HTTP/1.0
+From: /127.0.0.1:42270
+Date: Fri Mar 27 09:15:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: GET /udc.gif HTTP/1.0
+From: /127.0.0.1:42272
+Date: Fri Mar 27 09:15:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+
+Petition received: GET /fic.png HTTP/1.0
+From: /127.0.0.1:42274
+Date: Fri Mar 27 09:15:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 13320
+
+Petition received: GET /LICENSE.txt HTTP/1.0
+From: /127.0.0.1:42276
+Date: Fri Mar 27 09:15:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 579
+
+Petition received: HEAD /index.html HTTP/1.0
+From: /127.0.0.1:42282
+Date: Fri Mar 27 09:15:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 216
+
+Petition received: HEAD /udc.gif HTTP/1.0
+From: /127.0.0.1:42286
+Date: Fri Mar 27 09:15:18 CET 2020
+Server answer: 200 OK
+Sent resource size: 4250
+

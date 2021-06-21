@@ -1,0 +1,4 @@
+PORT: 6525
+DIRECTORY_INDEX: directory_index.txt
+DIRECTORY: /home/miguel/Dropbox/UDC/segundo/Q4/Redes/java-labs/p1/resources
+ALLOW: true
